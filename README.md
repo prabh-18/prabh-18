@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Prabhveer Singh 👋
 
-<!--
-**prabh-18/prabh-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer building automation and business tools.
+Currently working toward my first internship.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🔨 What I'm Currently Building
+- **Smart File Organizer** — Python CLI tool that auto-sorts files by type and date
+
+---
+
+## 📌 Projects
+| Project | Description | Tech |
+|---|---|---|
+| [Invoice Generator](https://github.com/prabh-18/invoice-generator) | Generates PDF invoices and emails them | Python, Tkinter, ReportLab |
+| [Expense Tracker](https://github.com/prabh-18/expense-tracker) | Multi-file CLI expense tracker with CSV export | Python |
+
+---
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhveer-singh-868738332)
+
+---
+*Committing code daily. Building in public.*
